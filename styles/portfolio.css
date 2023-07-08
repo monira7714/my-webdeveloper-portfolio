@@ -3,6 +3,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 /* shared style */
 body {
@@ -36,4 +37,22 @@ nav a {
     color: white;
     font-size: 20px;
     padding: 15px 35px;
+}
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 250px;
+    display: flex;
+    align-items: center;
+}
+.b-head{
+
+}
+.b-greet{
+
+}
+.p-pic{
+    width: 500px;
+    height: 600px;
 }
